@@ -1,4 +1,4 @@
-# Connect-Hard_drive-to-Rpi3
+# Connect-Hard_drive-to-Rpi3   Referenced from www.makeuseof.com
 Auto detect HDD on reboot of RPI3
 
 
